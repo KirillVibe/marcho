@@ -9,6 +9,7 @@
   "author": "Vibe Kirill",
   "license": "ISC",
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
     "browser-sync": "^2.26.14",
     "del": "^6.0.0",
     "gulp": "^4.0.2",
@@ -18,5 +19,9 @@
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2",
     "jquery": "^3.6.0"
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "slick-carousel": "^1.8.1"
   }
 }
